@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AplkMenuMakanan</string>
+
+    <string-array name="food">
+        <item>Nasi Goreng</item>
+        <item>Soto Ayam</item>
+        <item>Bubur Ayam</item>
+        <item>Mie Ayam</item>
+        <item>Nasi Kuning</item>
+    </string-array>
+    <string-array name="product">
+        <item>Nasi Goreng</item>
+        <item>Soto Ayam</item>
+        <item>Bubur Ayam</item>
+        <item>Mie Ayam</item>
+        <item>Nasi Kuning</item>
+    </string-array>
+    <string-array name="harga">
+        <item>12000</item>
+        <item>10000</item>
+        <item>11000</item>
+        <item>10000</item>
+        <item>7000</item>
+    </string-array>
+    <string-array name="description">
+        <item>Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin atau mentega. Biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk.</item>
+        <item>Soto ayam adalah makanan khas Indonesia yang berupa sejenis sup ayam dengan kuah yang berwarna kekuningan. Warna kuning ini dikarenakan oleh kunyit yang digunakan sebagai bumbu. Soto ayam banyak ditemukan di daerah-daerah di Indonesia.</item>
+        <item>Bubur ayam adalah salah satu jenis makanan dari Indonesia. Bubur nasi adalah beras yang dimasak dengan air yang banyak sehingga memiliki tekstur yang lembut dan berair. Bubur biasanya disajikan dalam suhu panas atau hangat.</item>
+        <item>Mie Ayam adalah hidangan khas Indonesia yang terbuat dari mie gandum yang dibumbui dengan daging ayam yang biasanya dipotong dadu. Hidangan ini banyak terpengaruh dengan teknik penyajian kuliner yang digunakan dalam hidangan Tionghoa.</item>
+        <item>Nasi kuning adalah makanan khas Indonesia. Makanan ini terbuat dari beras yang dimasak bersama dengan kunyit serta santan dan rempah-rempah.</item>
+    </string-array>
+</resources>
